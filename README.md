@@ -30,6 +30,7 @@ author = {Ayon Roy and team},
 title = {Informal Bangla–English Machine Translation Dataset},
 year = {2025},
 url = {https://huggingface.co/datasets/AyonRoy29/informal_bn-en_machine_translation_dataset}
+You may need to copy the link and then open it by paste the link in browser.
 }
 
 ---
